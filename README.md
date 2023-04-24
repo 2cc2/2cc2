@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=2cc2.readme)
-![](http://antzuhl.cn:4000/get/@2cc2.readme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=2cc2.readme)
+![](http://antzuhl.cn:4000/get/@2cc2.readme) -->
 ![info](https://github-readme-stats.vercel.app/api?2cc2=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://raw.githubusercontent.com/2cc2/2cc2/main/assets/github-contribution-grid-snake.svg)
