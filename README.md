@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@2cc2)
 
-![info](https://github-readme-stats.vercel.app/api?username=2cc2&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 ![](https://raw.githubusercontent.com/2cc2/2cc2/main/assets/github-contribution-grid-snake.svg)
