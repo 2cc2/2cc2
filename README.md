@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Love+Wins+All)](https://git.io/typing-svg)
 
 ### Hi I'm 2cc2.A student from China. 👋
-
 <!--
 **2cc2/2cc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +32,10 @@ About me
   - [E-mail](beibeiCao16@163.com)   
 - 🌱Others  
   - Be curious and passionate about knowledge and technology.  
-  - Welcome to communicate with me and make progress together.   
+  - Welcome to communicate with me and make progress together.
+
+ ---
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2cc2&layout=compact)
 
 
