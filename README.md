@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Love Wins ALL&center=true&size=27">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Love+Wins+All!!!)](https://git.io/typing-svg)
 
 ### Hi I'm 2cc2.A student from China. 👋
 
