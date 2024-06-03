@@ -33,7 +33,7 @@ About me
   - [E-mail](beibeiCao16@163.com)   
 - 🌱Others  
   - Be curious and passionate about knowledge and technology.  
-  - Welcome to communicate with me and make progress together.
+  - Welcome to communicate with me and make progress together.   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2cc2&layout=compact)
 
 
