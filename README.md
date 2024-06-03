@@ -25,9 +25,7 @@ About me
 - 📚 A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
 
-- 📫 Reach me  
-  - [Blog](https://2cc2.github.io/)  
-  - [E-mail](beibeiCao16@163.com)   
+
 
 - 😄 A Marathon runner:  
   - Running is a communication between soul and body.   
@@ -35,6 +33,10 @@ About me
 - 🔭 Fun fact:  
   - Robot  
   - AI+security
+
+ - 📫 Reach me  
+  - [Blog](https://2cc2.github.io/)  
+  - [E-mail](beibeiCao16@163.com)   
 
 - 🌱Others  
   - Be curious and passionate about knowledge and technology.  
