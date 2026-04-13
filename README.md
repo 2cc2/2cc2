@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 -->
 About me
 ---
-- 💬 A CTF beginner
-  - ID: DJoker
-  - Main direction: Web
 - 📚 A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
 - 😄 A Marathon runner:  
